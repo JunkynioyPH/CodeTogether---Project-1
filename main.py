@@ -17,3 +17,6 @@ os.system("python --version")
 
 # Yay it finally WORKS!
 # it so does, replit user!
+
+# so unfortunately, TKINTER doesnt work in REPLIT cuz of how cringe replit.com
+# configured their VM
