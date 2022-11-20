@@ -1,5 +1,5 @@
-".replit"
-"poetry.lock"
-"pyproject.toml"
-"replit.nix"
+.replit
+poetry.lock
+pyproject.toml
+replit.nix
 venv
