@@ -14,3 +14,5 @@ os.system("python --version")
 ## configured the .gitignore file to actually ignore replit's files from being
 ## commited to main in github and so that in VSCODE, stuff will be cleaner in the
 ## working directory! YAY! it only took 2.5 hours to figure out!
+
+# Yay it finally WORKS!
